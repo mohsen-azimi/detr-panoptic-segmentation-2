@@ -2,6 +2,7 @@
 
 ## Objective
 
+
 The aim of this project is to train [DETR](https://github.com/facebookresearch/detr) on a custom dataset consisting of objects from construction domain (around 48 classes) for Object Detection and Panoptic Segmentation.
 
 Let us now understand how DETR works and try to answer few questions.
